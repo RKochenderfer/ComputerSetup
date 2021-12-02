@@ -2,7 +2,9 @@
 
 sudo apt update -y
 sudo apt upgrade -y
+
 sudo apt install curl
+sudo apt install git build-essential
 
 # install rust in the future set this up to be automatic
 curl https://sh.rustup.rs -sSf | sh
