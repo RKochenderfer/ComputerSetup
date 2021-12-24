@@ -59,3 +59,8 @@ sudo apt-get -y install postgresql
 sudo systemctl daemon-reload
 sudo systemctl start mongod
 
+# install angular cli
+npm install -g @angular/cli
+
+# install pnpm
+npm install -g pnpm
