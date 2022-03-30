@@ -64,3 +64,6 @@ npm install -g @angular/cli
 
 # install pnpm
 npm install -g pnpm
+
+# install tsc
+npm install -g typescript
